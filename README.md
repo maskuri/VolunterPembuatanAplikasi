@@ -10,3 +10,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Achmad Maskuri Isnawan, [Linkedin](https://www.linkedin.com/in/achmad-maskuri-isnawan-116708168/).
